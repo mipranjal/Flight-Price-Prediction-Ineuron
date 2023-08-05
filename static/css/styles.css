@@ -1,0 +1,72 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: linear-gradient(to bottom, #330033, #000000);
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background: #1a1a1a;
+}
+
+.card {
+    background: #252525;
+    color: #ffffff;
+}
+
+.card-title {
+    color: #ffffff;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.form-control {
+    background-color: #333;
+    color: #ffffff;
+}
+
+.form-control::placeholder {
+    color: #a0a0a0;
+}
+
+.btn-primary {
+    background-color: #1a73e8;
+    border-color: #1a73e8;
+}
+
+.btn-primary:hover {
+    background-color: #0044cc;
+    border-color: #0044cc;
+}
+
+select {
+    background-color: #333;
+    color: #ffffff;
+}
+
+.select-placeholder {
+    color: #a0a0a0;
+}
+
+/* Footer */
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #1a1a1a;
+    padding: 10px 0;
+    color: #ffffff;
+    text-align: center;
+    font-size: 14px;
+}
+
+.footer p {
+    margin: 0;
+}
