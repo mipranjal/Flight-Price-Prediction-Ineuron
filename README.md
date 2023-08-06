@@ -2,11 +2,13 @@
 
 Welcome to the Flight Price Prediction project! 🚀 In this project, we aim to predict flight ticket prices based on various features like date of journey, departure time, arrival time, duration, airlines, source, and destination.
 
+
 ## 📝 Description
 
 This project is a part of the iNeuron Internship program. We explore a dataset containing flight information and perform data preprocessing, exploratory data analysis (EDA), feature engineering, and model building using the RandomForestRegressor algorithm. The goal is to create a reliable model that can accurately predict flight ticket prices for various routes and airlines.
 
-
+## Project Live Link
+https://pranjalmi.pythonanywhere.com/
 
 ## 🛠️ Tools and Libraries
 
