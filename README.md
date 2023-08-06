@@ -60,5 +60,4 @@ For any questions or inquiries, feel free to reach out to me:
 - **LinkedIn:** [Pranjal Mishra](https://www.linkedin.com/in/pranjal-mishra-057287229/)
 
 **Happy flying!** ✈️🚀🌌
-# Flight-Price-Prediction-Ineuron-Internship
-‣汆杩瑨倭楲散倭敲楤瑣潩⵮湉略潲⵮湉整湲桳灩�
+
